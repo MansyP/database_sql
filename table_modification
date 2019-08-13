@@ -1,0 +1,11 @@
+/*CREATE TABLE cricket(Name varchar(255),Batting_avg float,Team varchar,Highest_score INT)
+drop TABLE cricket
+CREATE TABLE patient_info(id int,title varchar(255),first_name varchar(255),last_name varchar(255),age int,gender char(1),city varchar(255),phone_number varchar(10)) 
+INSERT INTO patient_info values(1,"ache","mansy","prabaharan",19,"female","trichy",7403056209)CREATE TABLE patient_info(id int,title varchar(255),first_name varchar(255),last_name varchar(255),age int,city varchar(255),phone_number varchar(10))*/ 
+--INSERT INTO patient_info values(2,"ache","mansy","prabaharan",19,"trichy",7403056209,"ams@gmail.com","f")
+--SELECT*FROM patient_info
+--DROP TABLE patient_info
+--CREATE TABLE patient_info(id int,title varchar(255),first_name varchar(255),last_name varchar(255),age int,gender char,city varchar(255),phone_number varchar(10)) 
+--INSERT INTO patient_info values(1,"ache","mansy","prabaharan",19,"f","trichy",7403056209)
+SELECT*FROM patient_info
+--INSERT INTO patient_info values(1,"ache","mansy","prabaharan",19,"trichy",7403056209,"f","abc@gmail.com")
